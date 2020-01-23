@@ -80,6 +80,18 @@ footer p {
 
 }
 
+button {
+    background-color: #F15b31;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    text-transform: none;
+    color: #0d2c40;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-color: #0d2c40;
+    outline: none;
+}
+
 .message {
     float: right;
     font-family: 'Raleway', sans-serif;
